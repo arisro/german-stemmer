@@ -1,3 +1,5 @@
+Use the more refined repo by Pascal Landau at https://github.com/paslandau/german-stemmer .
+
 GermanStemmer
 ==============
 
